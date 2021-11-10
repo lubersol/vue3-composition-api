@@ -1,6 +1,6 @@
 # 08-compo-api
 
-## Project setup ole
+## Project setup
 
 ```
 npm install
